@@ -9,6 +9,9 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@elevenlabs/elevenlabs-js": "^2.31.0",
+    "assemblyai": "^4.22.1",
+    "dotenv": "^17.2.3",
     "next": "16.1.1",
     "react": "19.2.3",
     "react-dom": "19.2.3"
